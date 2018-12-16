@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ozczbvgi",
+    "password": "ibUaxSBSxBHpwMAQFumllnSav4OQKqWf",
+    "database": "ozczbvgi",
+    "host": "pellefant.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "ozczbvgi",
+    "password": "ibUaxSBSxBHpwMAQFumllnSav4OQKqWf",
+    "database": "ozczbvgi",
+    "host": "pellefant.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "ozczbvgi",
+    "password": "ibUaxSBSxBHpwMAQFumllnSav4OQKqWf",
+    "database": "ozczbvgi",
+    "host": "pellefant.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
